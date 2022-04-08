@@ -10,6 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/tim-nijssen-5a0b87b0/)
 - [Google Scholar](https://scholar.google.nl/citations?user=tQ2VAJoAAAAJ&hl=nl&oi=ao)
 - [ResearchGate](https://www.researchgate.net/profile/Tim-Nijssen)
+- [GitHub](https://github.com/tmjnijssen)
 
 ## Publications
 ### PhD thesis
