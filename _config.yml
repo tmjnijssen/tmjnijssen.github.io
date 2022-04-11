@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Tim M.J. Nijssen
 description: PostDoc @ Delft University of Technology
-logo: content/photo_tmjnijssen.jpg
+logo: /assets/img/photo_tmjnijssen.jpg
 show_downloads: false
 google_analytics:
