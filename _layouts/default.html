@@ -23,7 +23,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% include_relative about_me.md %}
+        {% include about_me.md | markdownify %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
