@@ -1,6 +1,3 @@
----
-layout: default
----
 ### About me  
 - Postdoc @ Delft University of Technology (NL)
 - Working on numerical simulation of Expanded Bed Adsorption (EBA)
