@@ -1,5 +1,5 @@
 ## About me  
-<img src="https://github.com/tmjnijssen/tmjnijssen/blob/main/photo_tmjnijssen.jpg?raw=true" align="right" alt="photo" width="200"/>
+<img src="content/photo_tmjnijssen.jpg" align="right" alt="photo" width="200"/>
 
 - Tim M.J. Nijssen
 - Postdoc @ Delft University of Technology (NL)
