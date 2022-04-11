@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## About me  
 - Tim M.J. Nijssen
 - Postdoc @ Delft University of Technology (NL)
