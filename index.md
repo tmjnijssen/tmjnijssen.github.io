@@ -1,6 +1,4 @@
 ## About me  
-<img src="content/photo_tmjnijssen.jpg" align="right" alt="photo" width="200"/>
-
 - Tim M.J. Nijssen
 - Postdoc @ Delft University of Technology (NL)
 - Working on numerical simulation of Expanded Bed Adsorption (EBA)
