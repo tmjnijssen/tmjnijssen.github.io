@@ -16,7 +16,7 @@
 ### PhD thesis
 T.M.J. Nijssen  
 **Dynamic behaviour of liquid-solid systems: Modelling and experiments applied to the blast furnace hearth**  
-*Eindhoven University of Technology (NL), November 2022*  
+*Eindhoven University of Technology (NL), November 2021*  
 DOI: [10.13140/RG.2.2.28510.72001](https://doi.org/10.13140/RG.2.2.28510.72001)
 
 ### Journal articles
@@ -63,15 +63,15 @@ DOI: [10.1021/acs.jced.6b00657](https://doi.org/10.1021/acs.jced.6b00657)
 ### Data sets
 - T.M.J. Nijssen, M.A.H. Van Dijk, J.A.M. Kuipers, J. van der Stel, A.T. Adema, and K.A. Buist  
 **Data underlying the publication: Experiments on floating bed rotating drums using magnetic particle tracking**  
-*4TU.ResearchData, Februari 2021*  
+*4TU.ResearchData, February 2021*  
 DOI: [10.4121/13721104.v1](https://doi.org/10.4121/13721104.v1)
 
 - O.J.I. Kramer, C. van Schaik and T.M.J. Nijssen  
 **Videos - Fluidisation of calcite-pellets 0.8-0.9mm and 1.4-1.7 mm in water for various flow rates**  
-*4TU.ResearchData, Januari 2021*  
+*4TU.ResearchData, January 2021*  
 DOI: [10.4121/13277246.v3](https://doi.org/10.4121/13277246.v3)
 
 -  O.J.I. Kramer and T.M.J. Nijssen  
 **Videos – CFD-DEM simulations: fluidisation of calcite-pellets in water**  
-*4TU.ResearchData, Januari 2021*  
+*4TU.ResearchData, January 2021*  
 DOI: [10.4121/uuid:41556e6c-b599-42cd-9f1d-bcf01dbe8576](https://doi.org/10.4121/uuid:41556e6c-b599-42cd-9f1d-bcf01dbe8576)
