@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the department of <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy" target="_blank" style="color: black;">Process & Energy</a> at TU Delft. I have a background in advanced modelling of processes and process equipment, including heat transfer, mass transfer and multiphase flow modelling.
+I am an assistant professor at the department of <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy" target="_blank">Process & Energy</a> at TU Delft. I have a background in advanced modelling of processes and process equipment, including heat transfer, mass transfer and multiphase flow modelling.
 
 My current scientific focus is the thermodynamics and hydrodynamics of CO<sub>2</sub> capture and conversion processes. Carbon capture will form a vital part of our route to net-zero greenhouse gas emissions. The hydrodynamics, mass transfer, heat transfer, and chemical phenomena which lie at the heart of carbon capture and conversion processes are often ill-understood due to their complex and coupled nature. I use numerical models and detailed experiments to understand these fundamentals, and apply this knowledge to develop, scale up and improve carbon capture processes.
 
