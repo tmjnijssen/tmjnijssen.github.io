@@ -14,4 +14,4 @@ My current scientific focus is the thermodynamics and hydrodynamics of CO<sub>2<
 
 I have a special interest in Direct Air Capture and negative emission technologies, by which CO<sub>2</sub> is taken from the atmosphere and stored or converted in long-life products. Unfortunately, the feasibility of technologies is currently limited by their high energy consumption. In my research, I am developing the processes and equipment to overcome these limitations, for example through deep integration of capture technologies and affordable renewable energy generation.
 
-On this website you'll find information on my research, publications, education, and ongoing projects. If you are interested in collaboration, or looking for a graduation or exchange project, please get in touch!
+On this website you'll find information on my research, publications, education, and ongoing projects. If you are interested in collaboration, or looking for a graduation or exchange project, please [get in touch](/contact)!
