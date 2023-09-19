@@ -8,7 +8,7 @@ author_profile: true
 
 If you have questions, or are interested in collaboration or doing a project, please feel free to get in touch:
 
-Tim M.J. Nijssen  
+dr.ir. Tim M.J. Nijssen  
 t.m.j.nijssen(at)tudelft.nl
 
 Department of Process & Energy  
