@@ -101,7 +101,7 @@ DOI: [10.4121/13277246.v3](https://doi.org/10.4121/13277246.v3)
 -  O.J.I. Kramer and T.M.J. Nijssen  
 **Videos – CFD-DEM simulations: fluidisation of calcite-pellets in water**  
 *4TU.ResearchData, January 2021*  
-DOI: [10.4121/uuid:41556e6c-b599-42cd-9f1d-bcf01dbe8576](https://doi.org/10.4121/uuid:41556e6c-b599-42cd-9f1d-bcf01dbe8576)
+DOI: [0.4121/13663619.v1](https://doi.org/10.4121/13663619.v1)
 
 </details>
 

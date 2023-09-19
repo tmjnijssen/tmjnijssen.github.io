@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm involved in the following courses:
+I am involved in the following courses:
 
 - Thermodynamica (<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=64942" target="_blank">WB1135</a>)
 - Process Engineering & Thermodynamics (<a href="https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=64973" target="_blank">WB2543</a>)
