@@ -13,5 +13,5 @@ I obtained my bachelor's degree in Chemical Engineering and Chemistry from the E
 After my PhD, I joined the group of prof.dr. M. (Marcel) Ottens at the department of Biotechnology of TU Delft for a postdoc project on Expanded Bed Adorption. I applied my experience in multiphase CFD the explore equipment and material design for process intensification in the purification of biopharmaceutical products. Since March 2023, I am in my current position at the department of Process & Energy (TU Delft), working on carbon capture and conversion processes. Next to my research and education, I am a board member of the <a href="https://osc-delft.github.io/" target="_blank">Open Science Community Delft</a>.
 
 <div style="text-align: center;">
-  <img src="/images/phd_defence.jpg" alt="PhD Defence" width="75%">
+  <img src="/images/20211108_phd_defence.jpg" alt="PhD Defence" width="75%">
 </div>
