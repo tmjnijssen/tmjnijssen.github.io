@@ -1,0 +1,14 @@
+---
+layout: archive
+permalink: /projects_new/
+title: "Projects"
+author_profile: true
+---
+
+<h2>PhD projects</h2>
+{% include base_path %}
+{% for post in site.categories.projects %}
+  {% if post.categories contains "phd" and post.categories contains "ongoing" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
