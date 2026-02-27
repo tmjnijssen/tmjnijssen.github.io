@@ -11,10 +11,20 @@ author_profile: true
 <summary><b>Journal articles</b>
 </summary>
 
+- I.A.E. Burgers, T.M.J. Nijssen, S. Feith, R. Kortlever and E.L.V. Goetheer  
+**Direct Air Capture with Integrated Electrochemical Conversion through Combined Solid and Liquid Sorbents**  
+*ACS Sustainable Chemistry & Engineering, vol 14, no 8, 2026*  
+DOI: [10.1021/acssuschemeng.5c07683](https://doi.org/10.1021/acssuschemeng.5c07683)
+
+- P. Tamarona, T.M.J. Nijssen, T.J.H. Vlugt and M. Ramdin  
+**Techno-economic analysis of catalytic methane pyrolysis in a fluidized bed reactor with reactor-scale catalyst deactivation modelling**  
+*Chemical Engineering Journal, vol 522, 2025*  
+DOI: [10.1016/j.cej.2025.167134](https://doi.org/10.1016/j.cej.2025.167134)
+
 - T.M.J. Nijssen, J.T. Padding and M. Ottens  
 **Hydrodynamics of expanded bed adsorption studied through CFD-DEM**  
 *Chemical Engineering Science, vol 280, 2023*  
-DOI: [10.1016/j.ces.2023.119027](http://dx.doi.org/10.1016/j.ces.2023.119027)
+DOI: [10.1016/j.ces.2023.119027](https://doi.org/10.1016/j.ces.2023.119027)
 
 - K.A. Buist and T.M.J. Nijssen  
 **Magnetic Particle Tracking: a semi-algebraic solution**  
