@@ -11,6 +11,19 @@ author_profile: true
 ### PhD projects
 - **Sebastiaan**: Multi-physics simulations of air contactor devices for Direct Air capture
 
+### Postdoc projects
+- **Flavia**: Rotascrub: Compact liquid-gas contactor for intensified CO₂ capture
+- **Rouzbeh**: NextGenDAC: Monolith in continuous operation
+
+## Previous projects
+
+### Postdoc projects
+- **Amirreza**: Understanding and controlling direct air capture under dynamic conditions
+
 ### Master's projects
-- **Saartje**: Integration of Direct Air Capture with (bi)carbonate electrolysis to produce CO
-- **Jop**: Feasibility study of moisture-swing carbon capture for gas fertilisation in greenhouses
+- **Ruben**: Process design for integrated Direct Air Capture and Solar Thermal energy
+- **Menno**: Design of a food-grade carbon dioxide purification system for small-scale beer breweries
+- **Paula**: Mass transfer in Direct Air Capture sorbents
+- **Jasper**: Modelling of separation enhanced methanol/ DME synthesis from CO₂ and H₂
+- **Saartje**: Novel dual sorbent carbon capture and utilization method
+- **Jop**: Moisture swing Direct Air Capture for carbon dioxide enrichment in closed greenhouse environments
