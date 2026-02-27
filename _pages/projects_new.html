@@ -5,10 +5,26 @@ title: "Projects"
 author_profile: true
 ---
 
-<h2>PhD projects</h2>
 {% include base_path %}
+
+<details open markdown="1">
+<summary><b>PhD projects</b></summary>
+
 {% for post in site.categories.projects %}
-  {% if post.categories contains "phd" and post.categories contains "ongoing" %}
-    {% include archive-single.html %}
+  {% if post.tags contains "phd-project" and post.categories contains "ongoing" %}
+    {% include archive-single.html type="no-date" %}
   {% endif %}
 {% endfor %}
+
+</details>
+
+<details open markdown="1">
+<summary><b>Postdoc projects</b></summary>
+
+{% for post in site.categories.projects %}
+  {% if post.tags contains "postdoc-project" and post.categories contains "ongoing" %}
+    {% include archive-single.html type="no-date" %}
+  {% endif %}
+{% endfor %}
+
+</details>
