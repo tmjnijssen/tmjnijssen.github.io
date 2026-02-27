@@ -15,7 +15,7 @@ Department of Process & Energy
 Faculty of Mechanical Engineering  
 Delft University of Technology
 
-Building 34b, room K 1.260  
+Building 34b, room K 1.250  
 Leeghwaterstraat 39  
 2628 CB Delft  
 The Netherlands
