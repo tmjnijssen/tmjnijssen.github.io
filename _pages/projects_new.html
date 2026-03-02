@@ -29,4 +29,15 @@ author_profile: true
 
 </details>
 
+<details open markdown="1">
+<summary><b>Other projects</b></summary>
+
+{% for post in site.categories.projects %}
+  {% if post.tags contains "other-project" and post.categories contains "ongoing" %}
+    {% include archive-single.html type="no-date" %}
+  {% endif %}
+{% endfor %}
+
+</details>
+
 <b><a href="/previous_projects/">Go to previous projects</a></b>
