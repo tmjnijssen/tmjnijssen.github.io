@@ -21,3 +21,7 @@ I am involved in the following courses:
   - Offshore Development Project (<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/19467" target="_blank">OE44200</a>)
 
 Aside from the courses, I am continually involved in master's, bachelor's, and exchange projects. If you are interested in such a project, please [get in touch](/contact).
+
+<div style="text-align: center;">
+  <img src="/images/climate_action_lunch.jpg" alt="Lecture" width="60%">
+</div>
