@@ -7,38 +7,46 @@ author_profile: true
 
 {% include base_path %}
 
-
-<details open markdown="1">
-<summary><b>PhD projects</b></summary>
-
-{% for post in site.projects %}
-  {% if post.tags contains "phd-project" and post.categories contains "ongoing" %}
+{% assign relevant_projects = site.projects | where: "categories", "ongoing" | where: "tags", "phd-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>PhD projects</b></summary>
+  {% for post in relevant_projects %}
     {% include archive-single.html type="no-date" %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+  </details>
+{% endif %}
 
-</details>
-
-<details open markdown="1">
-<summary><b>Postdoc projects</b></summary>
-
-{% for post in site.projects %}
-  {% if post.tags contains "postdoc-project" and post.categories contains "ongoing" %}
+{% assign relevant_projects = site.projects | where: "categories", "ongoing" | where: "tags", "postdoc-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>Postdoc projects</b></summary>
+  {% for post in relevant_projects %}
     {% include archive-single.html type="no-date" %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+  </details>
+{% endif %}
 
-</details>
-
-<details open markdown="1">
-<summary><b>Other projects</b></summary>
-
-{% for post in site.projects %}
-  {% if post.tags contains "other-project" and post.categories contains "ongoing" %}
+{% assign relevant_projects = site.projects | where: "categories", "ongoing" | where: "tags", "msc-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>MSc projects</b></summary>
+  {% for post in relevant_projects %}
     {% include archive-single.html type="no-date" %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+  </details>
+{% endif %}
 
-</details>
+{% assign relevant_projects = site.projects | where: "categories", "ongoing" | where: "tags", "other-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>Other projects</b></summary>
+  {% for post in relevant_projects %}
+    {% include archive-single.html type="no-date" %}
+  {% endfor %}
+  </details>
+{% endif %}
 
-<b><a href="/previous_projects/">Go to previous projects</a></b>
+<div style="text-align: center; margin-top: 1em;">
+  <div><a href="/previous_projects" class="btn"></i> Go to previous projects</a></div>
+</div>
