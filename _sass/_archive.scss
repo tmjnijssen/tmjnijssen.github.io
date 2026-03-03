@@ -5,13 +5,10 @@
 .archive {
   margin-bottom: 2em;
 
-  @include breakpoint($medium) {
-    @include span(12 of 12);
-  }
-
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   a {
@@ -42,6 +39,7 @@
 .archive__item-title {
   margin-bottom: 0.1em;
   font-family: $sans-serif-narrow;
+  padding-left: 1.5em;
 
   a + a {
     opacity: 0.5;
@@ -60,7 +58,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-5;
-  margin-left: 1.5em;
+  padding-left: 1.5em;
   text-align: justify;
 
   & + p {
