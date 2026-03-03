@@ -43,6 +43,10 @@
   }
 }
 
+.page__date {
+  font-size: $type-size-6;
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
@@ -58,7 +62,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: $type-size-5;
   }
 
   /* paragraph indents */
