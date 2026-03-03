@@ -1,0 +1,52 @@
+---
+layout: archive
+permalink: /previous_projects/
+title: "Previous projects"
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign relevant_projects = site.projects | where: "categories", "previous" | where: "tags", "phd-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>PhD projects</b></summary>
+  {% for post in relevant_projects %}
+    {% include archive-single.html type="no-date" %}
+  {% endfor %}
+  </details>
+{% endif %}
+
+{% assign relevant_projects = site.projects | where: "categories", "previous" | where: "tags", "postdoc-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>Postdoc projects</b></summary>
+  {% for post in relevant_projects %}
+    {% include archive-single.html type="no-date" %}
+  {% endfor %}
+  </details>
+{% endif %}
+
+{% assign relevant_projects = site.projects | where: "categories", "previous" | where: "tags", "msc-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>MSc projects</b></summary>
+  {% for post in relevant_projects %}
+    {% include archive-single.html type="no-date" %}
+  {% endfor %}
+  </details>
+{% endif %}
+
+{% assign relevant_projects = site.projects | where: "categories", "previous" | where: "tags", "other-project" %}
+{% if relevant_projects.size > 0 %}
+  <details open markdown="1">
+  <summary><b>Other projects</b></summary>
+  {% for post in relevant_projects %}
+    {% include archive-single.html type="no-date" %}
+  {% endfor %}
+  </details>
+{% endif %}
+
+<div style="text-align: center; margin-top: 1em;">
+  <div><a href="/previous_projects" class="btn"></i> Go to previous projects</a></div>
+</div>

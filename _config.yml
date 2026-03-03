@@ -218,6 +218,12 @@ defaults:
       type: projects
     values:
       category: "ongoing"
+    # _projects/previous
+  - scope:
+      path: "_projects/previous"
+      type: projects
+    values:
+      category: "previous"
   # _talks
   - scope:
       path: ""
