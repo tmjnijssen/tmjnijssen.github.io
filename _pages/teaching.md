@@ -23,5 +23,5 @@ I am involved in the following courses:
 Aside from the courses, I am continually involved in master's, bachelor's, and exchange projects. If you are interested in such a project, please [get in touch](/contact).
 
 <div style="text-align: center;">
-  <img src="/images/climate_action_lunch.jpg" alt="Lecture" width="60%">
+  <img src="/images/climate_action_lunch.jpg" alt="Lecture" width="75%">
 </div>
