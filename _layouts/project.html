@@ -58,7 +58,7 @@ layout: default
         
         <div style="text-align: center; margin-top: 1em;">
           {% if page.collection == 'projects' %}
-            {% if post.categories contains "previous" %}
+            {% if page.categories contains 'previous' %}
               <div><a href="/previous_projects" class="btn"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go back to previous projects</a></div>
             {% else %}
               <div><a href="/projects" class="btn"><i class="fa fa-arrow-left" aria-hidden="true"></i> Go back to projects</a></div>
