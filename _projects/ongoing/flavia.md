@@ -1,7 +1,6 @@
 ---
 title: 'Flavia: Modelling of Intensified Liquid-Gas Contactors for Carbon Capture Processes'
 date: 2025-10-01
-permalink: /projects/flavia
 excerpt: 'This project is focused on the modeling and simulation of advanced absorption technologies for CO₂ capture, with the objective of achieving process intensification and absorber size reduction.'
 tags:
   - postdoc-project

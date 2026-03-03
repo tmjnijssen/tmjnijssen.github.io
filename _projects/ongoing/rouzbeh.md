@@ -1,7 +1,6 @@
 ---
 title: 'Rouzbeh: Experimental Study and Modelling of Monolith Structures for Direct Air Capture'
 date: 2025-09-15
-permalink: /projects/rouzbeh
 excerpt: 'In this project, a series of monolith geometries is designed to investigate how structural variations influence CO₂ adsorption performance in DAC applications.'
 tags:
   - postdoc-project

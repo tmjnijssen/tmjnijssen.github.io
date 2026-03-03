@@ -7,10 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+
 <details open markdown="1">
 <summary><b>PhD projects</b></summary>
 
-{% for post in site.categories.projects %}
+{% for post in site.projects %}
   {% if post.tags contains "phd-project" and post.categories contains "ongoing" %}
     {% include archive-single.html type="no-date" %}
   {% endif %}
@@ -21,7 +22,7 @@ author_profile: true
 <details open markdown="1">
 <summary><b>Postdoc projects</b></summary>
 
-{% for post in site.categories.projects %}
+{% for post in site.projects %}
   {% if post.tags contains "postdoc-project" and post.categories contains "ongoing" %}
     {% include archive-single.html type="no-date" %}
   {% endif %}
@@ -32,7 +33,7 @@ author_profile: true
 <details open markdown="1">
 <summary><b>Other projects</b></summary>
 
-{% for post in site.categories.projects %}
+{% for post in site.projects %}
   {% if post.tags contains "other-project" and post.categories contains "ongoing" %}
     {% include archive-single.html type="no-date" %}
   {% endif %}

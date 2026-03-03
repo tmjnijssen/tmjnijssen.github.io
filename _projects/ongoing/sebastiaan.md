@@ -1,7 +1,6 @@
 ---
 title: 'Sebastiaan: Heat and mass transfer in contactor devices for Direct Air Capture'
 date: 2023-06-01
-permalink: /projects/sebastiaan
 excerpt: 'We seek to understand and optimise the design of (un)structured DAC sorbents through multiphysics CFD simulations'
 tags:
   - phd-project

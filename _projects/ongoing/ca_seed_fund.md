@@ -1,7 +1,6 @@
 ---
 title: 'Kinetic study of CO₂ adsorption under Direct Air Capture conditions using frequency response method'
 date: 2025-07-11
-permalink: /projects/ca_seed_fund
 excerpt: 'We are developing a set-up and analysis for measurement of CO₂ and H₂O uptake kinetics on DAC sorbents using a frequency response method.'
 tags:
   - other-project

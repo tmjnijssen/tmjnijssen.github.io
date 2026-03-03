@@ -1,7 +1,6 @@
 ---
 title: 'STDAC: Integrated Solar Thermal Direct Air Capture for negative CO₂ emissions'
 date: 2026-01-01
-permalink: /projects/stdac
 excerpt: 'In this project, we develop new integrated process in which solar radiation is captured as heat, and used directly to filter CO₂ from the air.'
 tags:
   - other-project
