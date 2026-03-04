@@ -14,7 +14,7 @@ The results show that SPT outperforms PTC in achieving the lowest levelised cost
 The weather conditions in Alice Springs result in a reduction of the LCOD by up to 27% compared to Almeria, due to higher and more constant solar availability combined with lower humidities. While PTC systems have higher LCOD, they require significantly less land. Overall, the combination of CSP and DAC is technically viable and it offers a scalable, land efficient alternative to nature based carbon dioxide removal methods.
 
 <div style="text-align: center;">
-  <img src="/images/projects/ruben.png" alt="Lecture" width="80%">
+  <img src="/images/projects/ruben.png" alt="Graphic" width="80%">
 </div>
 
 *The DNI and thermal energy requirement of the DAC system are plotted for the first six days of the typical meteorological year for Almeria. The peaks of DNI align very well with the troughs of the energy requirement. This indicates that the CSP system delivers most heat exactly when DAC requires the least energy per ton CO₂. This effect explains the lower capacity found using average yearly values compared to hourly values.*
