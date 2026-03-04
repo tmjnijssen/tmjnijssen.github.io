@@ -12,5 +12,5 @@ Removing CO₂ from the atmosphere is important for stopping climate change. Dir
 This work is supported by NWO through the Veni talent programme.
 
 <div style="text-align: center;">
-  <img src="/images/projects/veni.png" alt="Lecture" width="60%">
+  <img src="/images/projects/veni.png" alt="Graphic" width="60%">
 </div>

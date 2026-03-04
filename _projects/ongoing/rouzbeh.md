@@ -14,5 +14,5 @@ Advanced multiphysics simulations are employed to evaluate flow behaviour, press
 This project is a collaboration with <a href="https://skytree.tech/en-en" target="_blank">Skytree</a> and supported by <a href="https://topsectorenergie.nl/nl/maak-kennis-met-tse/tki-nieuw-gas/" target="_blank">TKI Nieuw Gas</a>.
 
 <div style="text-align: center;">
-  <img src="/images/projects/rouzbeh.jpg" alt="Lecture" width="60%">
+  <img src="/images/projects/rouzbeh.jpg" alt="Graphic" width="60%">
 </div>

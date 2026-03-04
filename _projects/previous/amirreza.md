@@ -11,5 +11,5 @@ To achieve the Paris Agreement’s 1.5 °C target, it is essential to reduce car
 
 
 <div style="text-align: center;">
-  <img src="/images/projects/amirreza.png" alt="Lecture" width="60%">
+  <img src="/images/projects/amirreza.png" alt="Graphic" width="60%">
 </div>

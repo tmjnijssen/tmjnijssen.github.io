@@ -12,5 +12,5 @@ Direct air capture (DAC) is an emerging technology to remove CO₂ from the atmo
 In this PhD research, the fluid dynamics, heat and mass transfer processes in air contactors are investigated using multiphyisics computational methods. The optimal topology of the sorbent material to balance pressure drop and capacity is considered, and efficient heat transfer mechanisms for the desorption phase will be designed. This research will lead to an improved understanding of the air contactors, and design rules to be used for further scale-up.
 
 <div style="text-align: center;">
-  <img src="/images/projects/sebastiaan.png" alt="Lecture" width="60%">
+  <img src="/images/projects/sebastiaan.png" alt="Graphic" width="60%">
 </div>

@@ -14,5 +14,5 @@ This project is a collaboration with <a href="https://sds-separation.com/" targe
 Read more: <a href="https://www.tudelft.nl/en/2024/me/news/tu-delft-investigates-compact-co2-capture-technologies-for-flue-gases" target="_blank">TU Delft investigates compact CO₂ capture technologies for flue gases</a>.
 
 <div style="text-align: center;">
-  <img src="/images/projects/flavia.jpg" alt="Lecture" width="60%">
+  <img src="/images/projects/flavia.jpg" alt="Graphic" width="60%">
 </div>

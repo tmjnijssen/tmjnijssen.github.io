@@ -12,5 +12,5 @@ Direct Air Capture  is a key technology for managing the atmospheric CO₂ conce
 This work is supported by the TU Delft Climate Action Programme Seed Fund.
 
 <div style="text-align: center;">
-  <img src="/images/projects/ca_seed_fund.png" alt="Lecture" width="60%">
+  <img src="/images/projects/ca_seed_fund.png" alt="Graphic" width="60%">
 </div>
