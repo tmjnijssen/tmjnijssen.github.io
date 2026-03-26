@@ -11,7 +11,7 @@ author_profile: true
 <summary><b>Journal articles</b>
 </summary>
 - A. Silani, T.M.J. Nijssen and M. Khosravi  
-**Model-Free Control of Direct Air Capture: Optimal Rule-Based Policies Tuned via Bayesian Optimization**
+**Model-Free Control of Direct Air Capture: Optimal Rule-Based Policies Tuned via Bayesian Optimization**  
 *Accepted in: Control Engineering Practice*
 
 - I.A.E. Burgers, T.M.J. Nijssen, S. Feith, R. Kortlever and E.L.V. Goetheer  
