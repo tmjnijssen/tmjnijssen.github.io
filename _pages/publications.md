@@ -12,31 +12,32 @@ author_profile: true
 </summary>
 - A. Silani, T.M.J. Nijssen and M. Khosravi  
 **Model-Free Control of Direct Air Capture: Optimal Rule-Based Policies Tuned via Bayesian Optimization**  
-*Accepted in: Control Engineering Practice*
+*Control Engineering Practice, vol. 173, 2026*  
+DOI: [10.1016/j.conengprac.2026.106980](https://doi.org/10.1016/j.conengprac.2026.106980)
 
 - I.A.E. Burgers, T.M.J. Nijssen, S. Feith, R. Kortlever and E.L.V. Goetheer  
 **Direct Air Capture with Integrated Electrochemical Conversion through Combined Solid and Liquid Sorbents**  
-*ACS Sustainable Chemistry & Engineering, vol 14, no 8, 2026*  
+*ACS Sustainable Chemistry & Engineering, vol. 14, no. 8, 2026*  
 DOI: [10.1021/acssuschemeng.5c07683](https://doi.org/10.1021/acssuschemeng.5c07683)
 
 - P. Tamarona, T.M.J. Nijssen, T.J.H. Vlugt and M. Ramdin  
 **Techno-economic analysis of catalytic methane pyrolysis in a fluidized bed reactor with reactor-scale catalyst deactivation modelling**  
-*Chemical Engineering Journal, vol 522, 2025*  
+*Chemical Engineering Journal, vol. 522, 2025*  
 DOI: [10.1016/j.cej.2025.167134](https://doi.org/10.1016/j.cej.2025.167134)
 
 - T.M.J. Nijssen, J.T. Padding and M. Ottens  
 **Hydrodynamics of expanded bed adsorption studied through CFD-DEM**  
-*Chemical Engineering Science, vol 280, 2023*  
+*Chemical Engineering Science, vol. 280, 2023*  
 DOI: [10.1016/j.ces.2023.119027](https://doi.org/10.1016/j.ces.2023.119027)
 
 - K.A. Buist and T.M.J. Nijssen  
 **Magnetic Particle Tracking: a semi-algebraic solution**  
-*Chemical Engineering Science, vol 265, 2023*  
+*Chemical Engineering Science, vol. 265, 2023*  
 DOI: [10.1016/j.ces.2022.118212](https://doi.org/10.1016/j.ces.2022.118212)
 
 - T.M.J. Nijssen, M. Ottens and J.T. Padding  
 **A note on the modelling of lubrication forces in unresolved simulations**  
-*Powder Technology, vol 413, 2023*  
+*Powder Technology, vol. 413, 2023*  
 DOI: [10.1016/j.powtec.2022.118017](https://doi.org/10.1016/j.powtec.2022.118017)
 
 - T.M.J. Nijssen, J.A.M. Kuipers, J. van der Stel, A.T. Adema and K.A. Buist  
