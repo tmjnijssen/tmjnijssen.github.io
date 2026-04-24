@@ -8,8 +8,8 @@ author_profile: true
 
 <details open markdown="1">
 
-<summary><b>Journal articles</b>
-</summary>
+<summary><b>Journal articles</b></summary>
+
 - A. Silani, T.M.J. Nijssen and M. Khosravi  
 **Model-Free Control of Direct Air Capture: Optimal Rule-Based Policies Tuned via Bayesian Optimization**  
 *Control Engineering Practice, vol. 173, 2026*  
@@ -79,6 +79,17 @@ DOI: [10.1002/aic.16078](https://doi.org/10.1002/aic.16078)
 **Carbon Dioxide Solubilities and Diffusivities in 1-Alkyl-3-methylimidazolium Tricyanomethanide Ionic Liquids: An Experimental and Modeling Study**  
 *Journal of Chemical and Engineering Data, vol. 61, no. 12, 2016*  
 DOI: [10.1021/acs.jced.6b00657](https://doi.org/10.1021/acs.jced.6b00657)
+
+</details>
+
+<details open markdown="1">
+
+<summary><b>Popular articles</b></summary>
+
+- T.M.J. Nijssen and H.W.J. Russchenberg  
+**Wat voor mogelijkheden zijn er om CO₂ uit de atmosfeer te verwijderen?**  
+*KlimaatHelpdesk, 24 April 2026*  
+URL: [klimaathelpdesk.org/answers/wat-voor-mogelijkheden-zijn-er-om-co%E2%82%82-uit-de-atmosfeer-te-verwijderen](https://www.klimaathelpdesk.org/answers/wat-voor-mogelijkheden-zijn-er-om-co%E2%82%82-uit-de-atmosfeer-te-verwijderen/)
 
 </details>
 
