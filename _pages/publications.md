@@ -89,7 +89,7 @@ DOI: [10.1021/acs.jced.6b00657](https://doi.org/10.1021/acs.jced.6b00657)
 - T.M.J. Nijssen and H.W.J. Russchenberg  
 **Wat voor mogelijkheden zijn er om CO₂ uit de atmosfeer te verwijderen?**  
 *KlimaatHelpdesk, 24 April 2026*  
-URL: [klimaathelpdesk.org/answers/wat-voor-mogelijkheden-zijn-er-om-co%E2%82%82-uit-de-atmosfeer-te-verwijderen](https://www.klimaathelpdesk.org/answers/wat-voor-mogelijkheden-zijn-er-om-co%E2%82%82-uit-de-atmosfeer-te-verwijderen/)
+URL: [klimaathelpdesk.org/answers/wat-voor-mogelijkheden-zijn-er-om-CO₂-uit-de-atmosfeer-te-verwijderen](https://www.klimaathelpdesk.org/answers/wat-voor-mogelijkheden-zijn-er-om-co₂-uit-de-atmosfeer-te-verwijderen/)
 
 </details>
 
