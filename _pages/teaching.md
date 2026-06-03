@@ -17,6 +17,8 @@ I am involved in the following courses:
 - Minor Engineering for Large-Scale Energy Conversion and Storage (ELECS):
   - Energy Conversion: Devices, Systems and Efficiencies (<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/19084" target="_blank">WB3575</a>)
   - Design Project Renewables Based Energy Conversion and Storage (<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/19087" target="_blank">WB3595</a>)
+- Minor Climate Change, Adaptation and Mitigation:
+  - Climate Engineering (<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/17753" target="_blank">CT3083</a>)
 - MSc Offshore and Dredging Engineering:
   - Offshore Development Project (<a href="https://studiegids.tudelft.nl/courses/study-guide/educations/19467" target="_blank">OE44200</a>)
 
