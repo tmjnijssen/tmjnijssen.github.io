@@ -86,7 +86,7 @@ DOI: [10.1021/acs.jced.6b00657](https://doi.org/10.1021/acs.jced.6b00657)
 
 <summary><b>Popular articles</b></summary>
 
-- T.M.J. Nijssen 
+- T.M.J. Nijssen  
 **Kunnen we alle fabrieken laten draaien zoals nu, maar de uitstoot verlagen door middel van CO₂ opslag?**  
 *KlimaatHelpdesk, 11 May 2026*  
 URL: [www.klimaathelpdesk.org/answers/kunnen-we-alle-fabrieken-laten-draaien-zoals-nu-maar-de-uitstoot-verlagen-door-middel-van-co₂-opslag](https://www.klimaathelpdesk.org/answers/kunnen-we-alle-fabrieken-laten-draaien-zoals-nu-maar-de-uitstoot-verlagen-door-middel-van-co₂-opslag/)
