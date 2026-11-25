@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-If you have questions, or are interested in collaboration or doing a project, please feel free to get in touch:
+All available funded positions are published through the [TU Delft vacancy portal](https://careers.tudelft.nl/search/?createNewAlert=false&q=nijssen&optionsFacetsDD_facility=&optionsFacetsDD_customfield1=&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=&optionsFacetsDD_customfield4=). Any applications or inquires for funded positions outside this portal will not be considered. If you have questions, or are interested in collaboration or doing a internship/graduation project, please feel free to get in touch:
 
 dr.ir. Tim M.J. Nijssen  
 t.m.j.nijssen(at)tudelft.nl
